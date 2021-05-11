@@ -38,4 +38,4 @@ Since I mentioned earlier, I didn't have enough time (due to some errands) to ma
   separate classes for each entity would be perfect.
 - Instead of using a single file for the application logic (**runner.py**), each individual service should have its own service class/object  
 - I should've definitely added some unit tests.
-- Documentation could've been added to the methods used.# wefoxChallenge
+- Documentation could've been added to the methods used.
